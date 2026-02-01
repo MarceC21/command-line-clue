@@ -29,4 +29,10 @@
 *No se encontro ninguna persona*
 
 *Pista cinco: ir a la caja de arena en el parque*
+
+
+*No se encontro nada y nadie en la caja de arena, ese debe ser el lugar del asesinato*
+
+*Deducción: The Police Officer con el Garden Shears en the sandbox*
+
 Location of the crime is still unknown - the room must have been empty when it happened...
