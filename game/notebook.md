@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Garden Shears
 - [x] Iron Poker
-- [ ] Antique Compass
+- [x] Antique Compass
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -24,4 +24,9 @@
 
 *Cuarta Pista: Ir a la cocina de la tienda*
 
+
+*En la cocina de la panderia se encontraron los siguientes objetos : Antique Compass y Letter Opener*
+*No se encontro ninguna persona*
+
+*Pista cinco: ir a la caja de arena en el parque*
 Location of the crime is still unknown - the room must have been empty when it happened...
