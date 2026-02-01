@@ -2,12 +2,12 @@
 
 ## Suspects
 - [ ] The Police Officer
-- [ ] The Engineer
-- [ ] The Shopkeeper
+- [x] The Engineer
+- [x] The Shopkeeper
 
 ## Weapons
 - [ ] Garden Shears
-- [ ] Iron Poker
+- [x] Iron Poker
 - [ ] Antique Compass
 
 ## Notes
@@ -20,6 +20,8 @@
 
 *Tercera pista: Ir al muelle del parque*
 
+*En el muelle en el parque se encuentra al ShopKeeper y ningún objeto*
 
+*Cuarta Pista: Ir a la cocina de la tienda*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
